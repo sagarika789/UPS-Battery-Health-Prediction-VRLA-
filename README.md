@@ -1,6 +1,9 @@
 # Predictive Maintenance for VRLA Battery Blocks (Schneider Electric Internship)
 **Project Overview**
-This project applies Machine Learning and statistical analysis to sensor data (impedance and voltage) from Uninterruptible Power Supply (UPS) battery blocks. The goal is to accurately diagnose the health status of individual battery blocks and predict the potential time window for failure, moving maintenance from reactive to predictive.
+This project applies Machine Learning and statistical analysis to real-time sensor data (impedance and voltage) from Uninterruptible Power Supply (UPS) battery blocks. The goal was to compare battery block health, diagnose degradation, and predict potential failure points using a data-driven approach.
+
+**Compliance Note**
+This methodology and analysis were developed during an internship. No proprietary source code or internal data are included in this public repository to comply with the project's non-disclosure agreement (NDA). The focus here is on showcasing the ML methodology and analytical findings
 
 # Features & Technologies
 **Key Features**
@@ -20,7 +23,7 @@ This project applies Machine Learning and statistical analysis to sensor data (i
 
 * Data Handling- Pandas, NumPy, Matplotlib
 
-* Domain- VRLA Battery Diagnostics, Impedance/Voltage Relation
+* Domain- IoT Sensor Data, Predictive Maintenance (PdM), Time-Series Analysis
 
 # Key Findings
 The model successfully identified subtle degradation:

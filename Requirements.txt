@@ -1,0 +1,9 @@
+Core Data Handling-
+pandas
+numpy
+
+ML Models-
+scikit-learn
+
+Visualization-
+matplotlib
